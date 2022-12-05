@@ -6,32 +6,31 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Dos sesiones de una hora.
 
-![portada]
+![portada](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/imagenes/portada.jpg)
 
 
 
 ## Objetivos 
 
-En esta sesión abordamos el concepto de producción primaria. Se trata de una característica fundamental para describir el funcionamiento de los ecosistemas. La producción primaria permite cuantificar la conversión de energía "abiótica" en biomasa.
+En esta sesión aprenderemos algunas nociones teóricas sobre gestión de ecosistemas. Se trata de conocer marcos conceptuales generales que se usan de manera habitual en la tarea de gestionar ecosistemas.
 
 De manera más específica, los objetivos de esta sesión son:
 
- + Conocer el concepto de producción primaria como proceso fundamental de todos los ecosistemas del planeta.
- + Contextualizar el concepto de producción primaria relacionándolo con el ciclo de la materia y el flujo de energía en la Tierra.
- + Comprender las relaciones escalo dependientes entre procesos bioquímicos a escala local y su manifestación a escala planetaria. 
- + Reconocer la relación entre producción primaria y respiración.
- + Relacionar de manera preliminar el concepto de producción primaria con el de ciclo biogeoquímico.
+ + Conocer el concepto de gestión como conjunto de procedimientos que usamos para conservar o restaurar ecosistemas.
+ + Reconocer las diferencias entre sistemas complejos adaptativos (ecosistemas) y otros sistemas complejos (ej. un puente o una silla). Identificar las propiedades emergentes que los diferencian. 
+ + Entender el concepto de problema "retorcido" (wicked).
+ + Avanzar en la comprensión de la jerarquía de escala que hay implícita en la forma de gestionar los recursos natrurales.
+ + Entender el concepto de gestión adaptativa.
+ + Comprender la evolución de los distintos procedimientos de gestión que se han implementado en las últimas décadas. Desde la gestión de especies hasta la de ecosistemas.
 
 
 
- ## Contenido
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar  [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/raw/2021-2022/presentacion/produccion_primaria.xmind). Abajo tienes el mismo mapa en formato html y también puedes verlo en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2021-2022/presentacion/produccion_primaria.html) página.
+ ## Contenido y material de lectura
+En [esta](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/presentacion/teoria_gestion_ecosistemas.pptx) presentación se encuentra el hilo argumental que se sigue en este acto docente. Además, en los siguientes enlaces tienes más material sobre los temas abordados:
++ [Ejemplos](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/presentacion/esquemas_gestion_adaptativa.pdf) de gestión adaptativa en el [Observatorio de seguimiento del cambio global de Sierra Nevada](https://obsnev.es/).
++ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/bibliografia/gestion_caza.pdf) que resume los procedimientos de gestión cinegética en España.
++ [Libro](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/bibliografia/manual_ordenacion_europarc.pdf) que resume los fundamentos de la "ordenación de montes", que es la herramienta principal que se usa en nuestro territorio para la gestión forestal.
++ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/main/bibliografia/Keiter-1998-Ecological_Applications.pdf) que resume alguna de las ideas teóricas vistas en clase. 
 
-
-
-<iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/2021-2022/presentacion/produccion_primaria.html"
-  style="width:100%; height:450px;"
-></iframe>
 
 
