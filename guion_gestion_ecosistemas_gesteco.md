@@ -3,7 +3,7 @@
 
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
-> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
+> + **_Autor_**: Elisa Oteros Rozas (es2otroe@uco.es), Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Dos sesiones de una hora.
 
 ![portada](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/imagenes/portada.jpg)
