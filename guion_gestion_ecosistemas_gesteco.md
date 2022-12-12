@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Concepos teóricos de la gestión de ecosisteas"
+# Guión de la sesión denominada "Concepos teóricos de la gestión de ecosistemas"
 
 
 > + **_Versión_**: 2022-2023
@@ -6,7 +6,7 @@
 > + **_Autor_**: Elisa Oteros Rozas (es2otroe@uco.es), Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Dos sesiones de una hora.
 
-![portada](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/imagenes/portada.jpg)
 
 
 
@@ -26,11 +26,11 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenido y material de lectura
-En [esta](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/presentacion/teoria_gestion_ecosistemas.pptx) presentación se encuentra el hilo argumental que se sigue en este acto docente. Además, en los siguientes enlaces tienes más material sobre los temas abordados:
-+ [Ejemplos](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/presentacion/esquemas_gestion_adaptativa.pdf) de gestión adaptativa en el [Observatorio de seguimiento del cambio global de Sierra Nevada](https://obsnev.es/).
-+ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/bibliografia/gestion_caza.pdf) que resume los procedimientos de gestión cinegética en España.
-+ [Libro](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/bibliografia/manual_ordenacion_europarc.pdf) que resume los fundamentos de la "ordenación de montes", que es la herramienta principal que se usa en nuestro territorio para la gestión forestal.
-+ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022--2023/bibliografia/Keiter-1998-Ecological_Applications.pdf) que resume alguna de las ideas teóricas vistas en clase. 
+En [esta](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/presentacion/teoria_gestion_ecosistemas.pptx) presentación se encuentra el hilo argumental que se sigue en este acto docente. Además, en los siguientes enlaces tienes más material sobre los temas abordados:
++ [Ejemplos](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/presentacion/esquemas_gestion_adaptativa.pdf) de gestión adaptativa en el [Observatorio de seguimiento del cambio global de Sierra Nevada](https://obsnev.es/).
++ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/bibliografia/gestion_caza.pdf) que resume los procedimientos de gestión cinegética en España.
++ [Libro](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/bibliografia/manual_ordenacion_europarc.pdf) que resume los fundamentos de la "ordenación de montes", que es la herramienta principal que se usa en nuestro territorio para la gestión forestal.
++ [Artículo](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/raw/2022-_-2023/bibliografia/Keiter-1998-Ecological_Applications.pdf) que resume alguna de las ideas teóricas vistas en clase. 
 
 
 
